@@ -8,8 +8,18 @@ The method was testified its effectiveness with the following setup of the envir
 
 
 python==3.6
+
+
 tensorflow==2.0.0b1
+
+
 tfp-nightly==0.7.0.dev20190510
+
+
 tensorflow_probability==0.8.0rc0
+
+
 keras
+
+
 scikit-learn
