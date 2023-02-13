@@ -1,5 +1,5 @@
-# MAW-Novelty-detection-via-robust-variational-autoencoding
-This repo implements the main experiments of https://arxiv.org/abs/2006.05534, which was published at AISTATS 2023.
+# MAW
+This repo implements the main experiments of Robust Variational Autoencoding with Wasserstein Penalty for Novelty Detection https://arxiv.org/abs/2006.05534, which was published at AISTATS 2023.
 
 **Prerequisites**
 
